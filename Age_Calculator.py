@@ -1,4 +1,4 @@
-# Week 2 Lab 2: Age Calculator with Birthday Countdown
+# Week 2 Lab: Age Calculator with Birthday Countdown
 
 import datetime
 
