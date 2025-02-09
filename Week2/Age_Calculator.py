@@ -1,4 +1,5 @@
 # Week 2 Lab: Age Calculator with Birthday Countdown
+# Description: A Python program that calculates a person's age based on their birth year and determines the number of days remaining until their next birthday. The program should automatically fetch the current date and time from the system.
 
 import datetime
 
