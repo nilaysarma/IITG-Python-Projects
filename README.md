@@ -9,6 +9,11 @@ Clone this repository to get started!
 git clone https://github.com/nilaysarma/IITG-Python-Projects.git
 ```
 
+Install required dependencies from ```requirements.txt``` file. It is recommended to create a virtual environment first.
+```
+pip install -r requirements.txt
+```
+
 ## Run a Python file
 To run a Python file, use this command
 
