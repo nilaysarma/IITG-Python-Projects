@@ -1,0 +1,12 @@
+nohup: ignoring input
+Deprecated Feature: Support for Python version 3.8 has been deprecated. Please update to Python 3.9 or above
+[2025-02-24 16:15:14] [INFO    ] discord.client: logging in using static token
+[2025-02-24 16:15:14] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 637806ec34cf3005614c5e6bd5218ff3).
+Recruiter#4821 has connected to Discord!
+The bot is in 3 servers:
+- Test Server
+- Lethal Company
+- Test Server 4 Bot
+ricogamer in general said: hello
+ricogamer in general said: kill
+400 Bad Request (error code: 50006): Cannot send an empty message

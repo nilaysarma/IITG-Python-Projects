@@ -1,0 +1,14 @@
+{
+    "reports_made": {
+        "AFK": 2,
+        "DISRESPECTFUL_BEHAVIORS": 1,
+        "SABOTAGING_TEAM": 1
+    },
+    "reports_received": {
+        "AFK": 1,
+        "CHEATING": 1,
+        "COMMS_ABUSE_TEXT": 1,
+        "DISRESPECTFUL_BEHAVIORS": 1,
+        "SABOTAGING_TEAM": 5
+    }
+}
