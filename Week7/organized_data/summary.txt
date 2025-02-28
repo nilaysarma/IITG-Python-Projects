@@ -1,0 +1,16 @@
+File Organization Summary
+==============================
+Text_files Files: 4
+  Sample File: bot_req.txt
+Csv_files Files: 2
+  Sample File: test.csv
+Json_files Files: 3
+  Sample File: quote1.json
+Images Files: 10
+  Sample File: img_20250207102128189324.png
+Logs Files: 1
+  Sample File: activity_20250228_135623.log
+Others Files: 1
+  Sample File: AndroidManifest.xml
+==============================
+Total Files Moved: 21
