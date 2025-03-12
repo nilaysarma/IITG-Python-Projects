@@ -5,3 +5,6 @@ openpyxl==3.1.5
 pillow==11.1.0
 pdfplumber==0.11.5
 matplotlib==3.10.1
+setuptools
+wheel
+twine
