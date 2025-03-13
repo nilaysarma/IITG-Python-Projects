@@ -26,6 +26,11 @@ List of Projects/Assignments:
 - [File Management System for a Research Lab](Week7/File_Management_System.ipynb)
 - [Experimenting with Loading Files](Week7/Loading_Files.ipynb)
 - [Retail Sales Data Analysis using OOP and Pandas](Week8/Retail_Sales_Data_Analysis.ipynb)
+- [A compute_utils Module](Week9/compute_utils/)
+- [A Package with Multiple Modules](Week9/multiple_modules/)
+- [Custom Logging Module](Week9/logging_module/)
+- [Build Package Locally](Week9/pypi/)
+    - [Publish to PyPI](https://pypi.org/project/mymathlibrary)
 
 ## 🐍 Run a Python file
 To run a Python file, use this command
