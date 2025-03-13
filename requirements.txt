@@ -9,3 +9,4 @@ matplotlib==3.10.1
 setuptools
 wheel
 twine
+mymathlibrary
