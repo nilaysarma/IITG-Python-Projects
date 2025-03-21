@@ -31,6 +31,8 @@ List of Projects/Assignments:
 - [Custom Logging Module](Week9/logging_module/)
 - [Build Package Locally](Week9/pypi/)
     - [Publish to PyPI](https://pypi.org/project/mymathlibrary)
+- [Replicate Effectively Using Matplotlib Tutorial](Week10/Effective_Matplotlib.ipynb)
+- [Replicate Matplotlib Examples](Week10/Examples_Matplotlib.ipynb)
 
 ## 🐍 Run a Python file
 To run a Python file, use this command
