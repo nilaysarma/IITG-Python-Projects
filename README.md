@@ -4,17 +4,6 @@
 
 Get all Year 1 Trimester 2 Python Lab projects in this repository. Read the [LICENSE](LICENSE) for more details.
 
-## 🚀 Get Started
-Clone this repository to get started!
-```sh
-git clone https://github.com/nilaysarma/IITG-Python-Projects.git
-```
-
-Install required dependencies from `requirements.txt` file. It is recommended to create a virtual environment first.
-```
-pip install -r requirements.txt
-```
-
 ## 📂 Projects / Assignments
 List of Projects/Assignments:
 - [Age Calculator with Birthday Countdown](Week2/Age_Calculator.py)
@@ -33,6 +22,17 @@ List of Projects/Assignments:
     - [Publish to PyPI](https://pypi.org/project/mymathlibrary)
 - [Replicate Effectively Using Matplotlib Tutorial](Week10/Effective_Matplotlib.ipynb)
 - [Replicate Matplotlib Examples](Week10/Examples_Matplotlib.ipynb)
+
+## 🚀 Get Started
+Clone this repository to get started!
+```sh
+git clone https://github.com/nilaysarma/IITG-Python-Projects.git
+```
+
+Install required dependencies from `requirements.txt` file. It is recommended to create a virtual environment first.
+```
+pip install -r requirements.txt
+```
 
 ## 🐍 Run a Python file
 To run a Python file, use this command
