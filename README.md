@@ -2,7 +2,7 @@
 
 ![DA 108](DA108.png)
 
-Get all Year 1 Trimester 2 Python Lab projects in this repository. Read the [LICENSE](LICENSE) for more details.
+This repository contains all projects/assignments given in IITG Python Lab (BSc DSAI). Get all Year 1 Trimester 2 Python Lab projects in this repository. Read the [LICENSE](LICENSE) for more details.
 
 ## 📂 Projects / Assignments
 List of Projects/Assignments:
@@ -19,9 +19,13 @@ List of Projects/Assignments:
 - [A Package with Multiple Modules](Week9/multiple_modules/)
 - [Custom Logging Module](Week9/logging_module/)
 - [Build Package Locally](Week9/pypi/)
-    - [Publish to PyPI](https://pypi.org/project/mymathlibrary)
+- [Publish Package to PyPI](https://pypi.org/project/mymathlibrary)
 - [Replicate Effectively Using Matplotlib Tutorial](Week10/Effective_Matplotlib.ipynb)
 - [Replicate Matplotlib Examples](Week10/Examples_Matplotlib.ipynb)
+- [Linear Algebra with NumPy and SciPy](Week11/NumPy_SciPy.ipynb)
+- [Sound Processing with Librosa](Week11/Sound_Processing_Librosa.ipynb)
+- [Image Processing (Grayscale & Black-White Conversion)](Week11/Image_Processing.ipynb)
+- [Demonstrating Numba's Performance Over NumPy](Week11/Numba_Performance.py)
 
 ## 🚀 Get Started
 Clone this repository to get started!
