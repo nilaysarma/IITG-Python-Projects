@@ -2,7 +2,7 @@
 
 ![DA 108](DA108.png)
 
-This repository contains all projects/assignments given in IITG Python Lab (BSc DSAI). Get all Year 1 Trimester 2 Python Lab projects in this repository. Read the [LICENSE](LICENSE) for more details.
+This repository contains projects/assignments given in the **1st year** of Python lab classes of **DA 108** course (Python Programming, BSc. DSAI) at [IITG](https://www.iitg.ac.in) (Indian Institute of Technology, Guwahati).
 
 ## 📂 Projects / Assignments
 List of Projects/Assignments:
@@ -41,11 +41,16 @@ pip install -r requirements.txt
 ## 🐍 Run a Python file
 To run a Python file, use this command
 
-On Windows
-```
+```sh
+# On Windows
 python FILE_NAME.py
-```
-On Linux & MacOS
-```
+
+# On Linux & MacOS
 python3 FILE_NAME.py
 ```
+
+## ❔ More info
+This repository is made for educational purpose for myself only. So **no PR will be accepted**. If you are in the DA 108 (Python Programming) course, you can use this repository as a reference.
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
